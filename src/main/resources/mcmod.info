@@ -1,0 +1,15 @@
+[
+{
+  "modid": "epicproportionsmod",
+  "name": "jtrent238's Tutorial Mod",
+  "description": "This is a Tutorial Mod.",
+  "mcversion": "${mcversion}",
+  "url": "${URL}",
+  "updateUrl": "${UPDATEURL}",
+  "authorList": ["jtrent238"],
+  "credits": "jtrent238",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": ["jtcoremod"]
+}
+]

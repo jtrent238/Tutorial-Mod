@@ -1,0 +1,33 @@
+//jtrent238's Elemental Mod Lang File
+//en_US
+
+//Items
+item.itemTutItem.name=Tutorial Item
+
+
+	/Weapons & Tools
+
+	/Armor
+		
+
+//Blocks
+tile.blockTutBlock.name=Tutorial Block
+
+
+//Entitys
+entity.TutMob.name=Tuturial Mob
+
+
+
+//Mod Devs And Helpers
+entity.Entityjtrent238.name=jtrent238
+
+//Container
+
+//Generators
+//Achievements
+//Enchantments
+//Potions
+
+//Creative Tabs
+itemGroup.TutMod=jtrent238's Tutorial Mod

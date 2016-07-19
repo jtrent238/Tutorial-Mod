@@ -1,0 +1,70 @@
+Epic Proportions Mod ChangeLog
+
+1.0.4.1
+- Added Birthday Present
+- Added FuriousDestroyer's Chest
+- Added SuperGirlyGamer's Chest
+- Added Clown
+- Fixed TNT Sword Structure
+- Fixed Crafting Of SuperGirlyGamer's Super Armor
+- Can Now Wear Jen's Lips
+- Can Now Get Jen Ingots In Bonus Chest And Dungeon Chest
+- Can Now Get Pat Ingots In Bonus Chest And Dungeon Chest
+
+1.0.3.1
+- Added FuriousDestroyer Armor
+- Added SuperGirlyGamer Armor
+- Added FuriousDestroyer Super Armor
+- Added SuperGirlyGamer Super Armor
+- Added FuriousDestroyer Bow
+- Added FuriousDestroyer Arrow
+- Added SuperGirlyGamer Bow
+- Added SuperGirlyGamer Arrow
+
+1.0.2.1
+- Added Pat Axe
+- Added Jen Axe
+- Added Glisten Effect To Gem Of Epic Proportions
+- Added SuperGirlyGamer Star
+- Added FuriousDestroyer Star
+- Added Epic Proportions Star
+- Added FuriousDestroyer's Shovel
+- Added SuperGirlyGamer's Shovel
+- Added FuriousDestroyer's Hoe
+- Added SuperGirlyGamer's Hoe
+- Fixed Crafting Of Pat Pickaxe
+- Fixed Crafting Of Jen Pickaxe
+- Fixed Crash When Using Pat Pickaxe
+- Fixed Crash When Using Jen Pickaxe
+
+1.0.1.1
+- Added jtrent238
+- Added Pat Pick
+- Added Jen Pick
+- Removed Extra Spawn Eggs
+
+
+1.0.1.0
+- Added Captian Cookie Litte
+- Added Bob 2.0
+- Added Ninja Master
+- Added SuperGirlyGamer's Sword
+- Added FuriousDestroyer's Sword
+- Added FuriousDestroyer's Block
+- Added SuperGirlyGamer's Block
+- Added FuriousDestroyer Ore
+- Added SuperGirlyGamer Ore
+- Added TNT Sword Structure
+- Added TNT Sword Structure Spawner
+- Added Jen's Lips
+- Added Fart Bomb
+- Added en_US.lang file
+
+1.0.0.0
+- Added FuriousDestroyer[Pat]
+- Added SuperGirlyGamer[Jen]
+- Added Bomby
+- Added Captian Cookie
+- Added Gem Of Epic Proportions
+- Added Pat Ingot
+- Added Jen Ingot
